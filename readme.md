@@ -24,7 +24,7 @@ In style.css file i write all the code for the styling .
 
 - i have used different selectors & classes to target the elements and style them as per the designs .
 
--Here i specifically used *clip-path property to style an image which is worth practice.
+- Here i specifically used *clip-path property to style an image which is worth practice.
 
 > Images Folder
 
