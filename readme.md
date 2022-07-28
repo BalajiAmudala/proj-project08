@@ -22,7 +22,7 @@ In style.css file i write all the code for the styling .
 
 - i totally avoid inline & internal styling methods in this project 15 
 
-- i have used different selectors & classes to target the elements and style them as per the designs .
+- i have used different selectors & classes to target the elements and style them as per the design.
 
 - Here i specifically used *clip-path property to style an image which is worth practice.
 
